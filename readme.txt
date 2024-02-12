@@ -1,0 +1,1 @@
+the .mdf file needs to be placed in Desktop of user named Adnan.
